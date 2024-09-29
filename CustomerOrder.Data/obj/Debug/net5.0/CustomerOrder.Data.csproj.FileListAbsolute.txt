@@ -1,0 +1,15 @@
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\bin\Debug\net5.0\CustomerOrder.Data.deps.json
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\bin\Debug\net5.0\CustomerOrder.Data.runtimeconfig.json
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\bin\Debug\net5.0\CustomerOrder.Data.runtimeconfig.dev.json
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\bin\Debug\net5.0\CustomerOrder.Data.dll
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\bin\Debug\net5.0\CustomerOrder.Data.pdb
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.csproj.AssemblyReference.cache
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.AssemblyInfoInputs.cache
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.AssemblyInfo.cs
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.csproj.CoreCompileInputs.cache
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.dll
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\refint\CustomerOrder.Data.dll
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.pdb
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\CustomerOrder.Data.genruntimeconfig.cache
+C:\Users\cagrie\source\repos\CustomerOrder\CustomerOrder.Data\obj\Debug\net5.0\ref\CustomerOrder.Data.dll
